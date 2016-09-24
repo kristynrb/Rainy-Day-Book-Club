@@ -1,0 +1,11 @@
+body{
+  margin: 0 20%;
+}
+#app_heading {
+  color: purple;
+  text-align: center;
+}
+#app_sub_heading {
+  color: lightblue;
+  text-align: center;
+}
